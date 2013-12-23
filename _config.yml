@@ -1,0 +1,22 @@
+source: /home/wangzh/src/jekyll/wz125.github.com 
+destination: ./_site
+#watch:       true
+markdown: rdiscount
+permalink: /:title/
+url: http://
+name: wz125
+author: WangZhen
+qq: 9797832
+email: wz125@foxmail.com
+beian: xxx
+cnzz: xxx
+weibo: wz125
+github: wz125
+duoshuo: wz125
+pygments: true
+safe: true
+paginate: 20
+about: "nothing at.2012"
+server: true
+host: 0.0.0.0
+port: 4000
