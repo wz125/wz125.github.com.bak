@@ -1,4 +1,4 @@
-source: /home/wangzh/src/jekyll/wz125.github.com 
+source: /home/wangzh/space/jekyll/wz125.github.com 
 destination: ./_site
 #watch:       true
 markdown: rdiscount
