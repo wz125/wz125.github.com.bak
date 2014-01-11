@@ -21,7 +21,7 @@ Ctrl-Shift-w 关闭当前窗口
 Ctrl-Shift-q 关闭整个终端
 
 ##env
-
+{% highlight yaml linenos %}
 [global_config]
     title_transmit_bg_color = "#d30102"
     focus = system
@@ -62,7 +62,7 @@ Ctrl-Shift-q 关闭整个终端
             type = Window
             parent = ""
 [plugins]
-
+}
 
 ##dircolors
 
