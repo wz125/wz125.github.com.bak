@@ -49,4 +49,5 @@ git remote add origin git@github.com:han1202012/TabHost_Test.git
 git push -u origin master  
 
 ```
+>[GIT参考手册](http://gitref.org/zh/index.html)
 >[help blog](http://blog.csdn.net/vipzjyno1/article/details/22098621)
