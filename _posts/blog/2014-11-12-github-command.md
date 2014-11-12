@@ -1,4 +1,9 @@
-# GitHub操作流程 :
+---
+layout: post
+title: 'GitHub操作流程'
+category: blog
+tags: man
+---
 
 第一次提交 :  
 ====
