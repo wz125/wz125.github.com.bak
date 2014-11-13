@@ -2,7 +2,7 @@
 layout: post
 title: 'GitHub操作流程'
 category: blog
-tags: man
+tags: [man]
 ---
 
 第一次提交 :  
